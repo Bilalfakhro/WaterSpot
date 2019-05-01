@@ -42,8 +42,8 @@ export default class DataSheet_sheet1 extends DataSheetBase {
     item['latitude'] = "{\"longitude\":\"45°41'13.0\\\"\",\"latitude\":\"13°44'45.7\\\"\"}";
     item['feelTemp'] = "";
     item['userUID'] = "";
-    item['spotName'] = "Trieste beach, Italy";
     item['coordinates'] = {"longitude":"45°41'13.0\"","latitude":"13°44'45.7\""};
+    item['spotName'] = "Trieste beach, Italy";
     item.key = key++;
     
     item = {};
